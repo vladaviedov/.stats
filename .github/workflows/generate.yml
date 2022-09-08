@@ -6,7 +6,7 @@ jobs:
   run:
     runs-on: ubuntu-latest
     permissions:
-      contents: read
+      contents: write
       packages: read
     steps:
       - uses: actions/checkout@v3
@@ -23,10 +23,9 @@ jobs:
         run: npx gh-lang-stats
         env:
           ACCESS_KEY: ${{ secrets.ACCESS_KEY }}
-      - name: Commit
-        run: |
-          git config user.name "Test"
-          git config user.email "test@example.com"
-          git add .
-          git commit -m "generated images" --allow-empty
-          git push origin master
+      - name: Commit & Push
+        uses: Andro999b/push@v1.3
+        with:
+          github_token: ${{ secrets.ACCESS_KEY }}
+          message: "Generated Images"
+          empty: true
