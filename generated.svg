@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="150" viewBox="0 0 350 150">
+	<style>
+		.background {
+			width: 100%;
+			height: 100%;
+			fill: #0a0f17;
+		}
+		
+		text {
+			font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+		}
+
+		.title {
+			font-size: 15px;
+			fill: #fcfcd8;
+		}
+
+		.bar-segment {
+			height: 100%;
+		}
+
+		.lang-name {
+			font-size: 11px;
+			fill: #eeeeb8
+		}
+	</style>
+
+	<!-- Background box -->
+	<rect class="background" />
+
+	<!-- Title -->
+	<text class="title" x="10%" y="20%">
+		Most Used Languages
+	</text>
+	
+	<!-- Percentage Bar -->
+	<svg x="10%" y="30%" width="80%" height="5%">
+		<!-- __template_bar__ <rect class="bar-segment" x="$prev%" width="$cur%" fill="$color" /> __end__ -->
+		<rect class="bar-segment" x="0.00%" width="36.16%" fill="#555555" /><rect class="bar-segment" x="36.16%" width="20.26%" fill="#b07219" /><rect class="bar-segment" x="56.43%" width="12.79%" fill="#00ADD8" /><rect class="bar-segment" x="69.22%" width="12.23%" fill="#f34b7d" /><rect class="bar-segment" x="81.46%" width="8.33%" fill="#f1e05a" /><rect class="bar-segment" x="89.79%" width="7.43%" fill="#A97BFF" /><rect class="bar-segment" x="97.22%" width="0.98%" fill="#3178c6" /><rect class="bar-segment" x="98.21%" width="0.61%" fill="#a270ba" /><rect class="bar-segment" x="98.82%" width="0.57%" fill="#89e051" />
+	</svg>
+	
+	<!-- Language List -->
+	<svg x="10%" y="40%" width="80%" height="50%">
+		<!-- __template_list__ <svg y="$yCoord" x="$xCoord">
+			<circle cx="5" cy="6" r="5" fill="$color" />
+			<text class="lang-name" x="15" y="10">
+				$name - $cur%
+			</text>
+		</svg> __end__ -->
+		<svg y="0%" x="0%">
+			<circle cx="5" cy="6" r="5" fill="#555555" />
+			<text class="lang-name" x="15" y="10">
+				C - 36.16%
+			</text>
+		</svg><svg y="25%" x="0%">
+			<circle cx="5" cy="6" r="5" fill="#b07219" />
+			<text class="lang-name" x="15" y="10">
+				Java - 20.26%
+			</text>
+		</svg><svg y="50%" x="0%">
+			<circle cx="5" cy="6" r="5" fill="#00ADD8" />
+			<text class="lang-name" x="15" y="10">
+				Go - 12.79%
+			</text>
+		</svg><svg y="75%" x="0%">
+			<circle cx="5" cy="6" r="5" fill="#f34b7d" />
+			<text class="lang-name" x="15" y="10">
+				C++ - 12.23%
+			</text>
+		</svg><svg y="100%" x="50%">
+			<circle cx="5" cy="6" r="5" fill="#f1e05a" />
+			<text class="lang-name" x="15" y="10">
+				JavaScript - 8.33%
+			</text>
+		</svg><svg y="0%" x="50%">
+			<circle cx="5" cy="6" r="5" fill="#A97BFF" />
+			<text class="lang-name" x="15" y="10">
+				Kotlin - 7.43%
+			</text>
+		</svg><svg y="25%" x="50%">
+			<circle cx="5" cy="6" r="5" fill="#3178c6" />
+			<text class="lang-name" x="15" y="10">
+				TypeScript - 0.98%
+			</text>
+		</svg><svg y="50%" x="50%">
+			<circle cx="5" cy="6" r="5" fill="#a270ba" />
+			<text class="lang-name" x="15" y="10">
+				Julia - 0.61%
+			</text>
+		</svg><svg y="75%" x="50%">
+			<circle cx="5" cy="6" r="5" fill="#89e051" />
+			<text class="lang-name" x="15" y="10">
+				Shell - 0.57%
+			</text>
+		</svg>
+	</svg>
+</svg>
