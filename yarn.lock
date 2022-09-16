@@ -296,10 +296,10 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-18.7.16.tgz#0eb3cce1e37c79619943d2fd903919fc30850601"
   integrity sha512-EQHhixfu+mkqHMZl1R2Ovuvn47PUw18azMJOTwSZr9/fhzHNGXAJ0ma0dayRVchprpCj0Kc1K1xKoWaATWF1qg==
 
-"@vladaviedov/gh-lang-stats@^0.3.0":
-  version "0.3.0"
-  resolved "https://npm.pkg.github.com/download/@vladaviedov/gh-lang-stats/0.3.0/d48ba33e49fb1010085b919c537ca494b752dab7#d48ba33e49fb1010085b919c537ca494b752dab7"
-  integrity sha512-Mq2MZ9GQE2U37gMfFtJklowkU8zFrEkMWb4+zXiZ7IQVzGGWG6ipl5mZDokRC0BPC0JmW9PxfH7ukFdQnTufsg==
+"@vladaviedov/gh-lang-stats@^0.3.1":
+  version "0.3.1"
+  resolved "https://npm.pkg.github.com/download/@vladaviedov/gh-lang-stats/0.3.1/736fe12ba230a61ff34bfc9c8dbdc0f82cf792ba#736fe12ba230a61ff34bfc9c8dbdc0f82cf792ba"
+  integrity sha512-hwR3gEGkbcdPC9xaoQlwIBtzwkWFcZVeNgtw+SXnu9YdYk3v2S9ago96AK7uBTCqurBXfm1jS0DFBvW3iuF7MQ==
   dependencies:
     octokit "^2.0.7"
     yaml "^2.1.1"
