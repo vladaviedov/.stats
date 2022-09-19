@@ -1,6 +1,9 @@
 name: Generate Images
 
-on: workflow_dispatch
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
 
 jobs:
   run:
@@ -17,8 +20,8 @@ jobs:
           registry-url: 'https://npm.pkg.github.com'
         env:
           NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Install Program
-        run: yarn add @vladaviedov/gh-lang-stats
+      - name: Install Packages
+        run: yarn install --immutable
       - name: Run Program
         run: npx gh-lang-stats
         env:
