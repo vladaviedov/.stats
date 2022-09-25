@@ -25,10 +25,10 @@ jobs:
       - name: Run Program
         run: npx gh-lang-stats
         env:
-          ACCESS_KEY: ${{ secrets.ACCESS_KEY }}
+          TOKEN: ${{ secrets.TOKEN }}
       - name: Commit & Push
         uses: Andro999b/push@v1.3
         with:
-          github_token: ${{ secrets.ACCESS_KEY }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           message: "Generated Images"
           empty: true
