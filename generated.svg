@@ -36,7 +36,7 @@
 	<!-- Percentage Bar -->
 	<svg x="10%" y="30%" width="80%" height="5%">
 		<!-- __template_bar__ <rect class="bar-segment" x="$prev%" width="$cur%" fill="$color" /> __end__ -->
-		<rect class="bar-segment" x="0.00%" width="47.23%" fill="#555555" /><rect class="bar-segment" x="47.23%" width="15.27%" fill="#b07219" /><rect class="bar-segment" x="62.50%" width="10.65%" fill="#f34b7d" /><rect class="bar-segment" x="73.15%" width="9.64%" fill="#00ADD8" /><rect class="bar-segment" x="82.79%" width="9.52%" fill="#f1e05a" /><rect class="bar-segment" x="92.31%" width="5.60%" fill="#A97BFF" /><rect class="bar-segment" x="97.91%" width="0.74%" fill="#3178c6" /><rect class="bar-segment" x="98.65%" width="0.46%" fill="#a270ba" />
+		<rect class="bar-segment" x="0.00%" width="47.11%" fill="#555555" /><rect class="bar-segment" x="47.11%" width="15.23%" fill="#b07219" /><rect class="bar-segment" x="62.34%" width="10.88%" fill="#f34b7d" /><rect class="bar-segment" x="73.22%" width="9.61%" fill="#00ADD8" /><rect class="bar-segment" x="82.83%" width="9.50%" fill="#f1e05a" /><rect class="bar-segment" x="92.33%" width="5.59%" fill="#A97BFF" /><rect class="bar-segment" x="97.91%" width="0.74%" fill="#3178c6" /><rect class="bar-segment" x="98.65%" width="0.46%" fill="#a270ba" />
 	</svg>
 	
 	<!-- Language List -->
@@ -50,32 +50,32 @@
 		<svg y="0%" x="0%">
 			<circle cx="5" cy="6" r="5" fill="#555555" />
 			<text class="lang-name" x="15" y="10">
-				C - 47.23%
+				C - 47.11%
 			</text>
 		</svg><svg y="25%" x="0%">
 			<circle cx="5" cy="6" r="5" fill="#b07219" />
 			<text class="lang-name" x="15" y="10">
-				Java - 15.27%
+				Java - 15.23%
 			</text>
 		</svg><svg y="50%" x="0%">
 			<circle cx="5" cy="6" r="5" fill="#f34b7d" />
 			<text class="lang-name" x="15" y="10">
-				C++ - 10.65%
+				C++ - 10.88%
 			</text>
 		</svg><svg y="75%" x="0%">
 			<circle cx="5" cy="6" r="5" fill="#00ADD8" />
 			<text class="lang-name" x="15" y="10">
-				Go - 9.64%
+				Go - 9.61%
 			</text>
 		</svg><svg y="0%" x="50%">
 			<circle cx="5" cy="6" r="5" fill="#f1e05a" />
 			<text class="lang-name" x="15" y="10">
-				JavaScript - 9.52%
+				JavaScript - 9.50%
 			</text>
 		</svg><svg y="25%" x="50%">
 			<circle cx="5" cy="6" r="5" fill="#A97BFF" />
 			<text class="lang-name" x="15" y="10">
-				Kotlin - 5.60%
+				Kotlin - 5.59%
 			</text>
 		</svg><svg y="50%" x="50%">
 			<circle cx="5" cy="6" r="5" fill="#3178c6" />
