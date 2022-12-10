@@ -36,7 +36,7 @@
 	<!-- Percentage Bar -->
 	<svg x="10%" y="30%" width="80%" height="5%">
 		<!-- __template_bar__ <rect class="bar-segment" x="$prev%" width="$cur%" fill="$color" /> __end__ -->
-		<rect class="bar-segment" x="0.00%" width="36.12%" fill="#555555" /><rect class="bar-segment" x="36.12%" width="33.34%" fill="#f34b7d" /><rect class="bar-segment" x="69.46%" width="12.25%" fill="#b07219" /><rect class="bar-segment" x="81.71%" width="5.51%" fill="#00ADD8" /><rect class="bar-segment" x="87.22%" width="5.44%" fill="#f1e05a" /><rect class="bar-segment" x="92.67%" width="4.72%" fill="#A97BFF" /><rect class="bar-segment" x="97.39%" width="1.18%" fill="#5686a5" /><rect class="bar-segment" x="98.57%" width="0.42%" fill="#3178c6" />
+		<rect class="bar-segment" x="0.00%" width="36.10%" fill="#555555" /><rect class="bar-segment" x="36.10%" width="33.37%" fill="#f34b7d" /><rect class="bar-segment" x="69.48%" width="12.24%" fill="#b07219" /><rect class="bar-segment" x="81.72%" width="5.51%" fill="#00ADD8" /><rect class="bar-segment" x="87.23%" width="5.44%" fill="#f1e05a" /><rect class="bar-segment" x="92.67%" width="4.72%" fill="#A97BFF" /><rect class="bar-segment" x="97.38%" width="1.18%" fill="#5686a5" /><rect class="bar-segment" x="98.56%" width="0.42%" fill="#3178c6" />
 	</svg>
 	
 	<!-- Language List -->
@@ -50,17 +50,17 @@
 		<svg y="0%" x="0%">
 			<circle cx="5" cy="6" r="5" fill="#555555" />
 			<text class="lang-name" x="15" y="10">
-				C - 36.12%
+				C - 36.10%
 			</text>
 		</svg><svg y="25%" x="0%">
 			<circle cx="5" cy="6" r="5" fill="#f34b7d" />
 			<text class="lang-name" x="15" y="10">
-				C++ - 33.34%
+				C++ - 33.37%
 			</text>
 		</svg><svg y="50%" x="0%">
 			<circle cx="5" cy="6" r="5" fill="#b07219" />
 			<text class="lang-name" x="15" y="10">
-				Java - 12.25%
+				Java - 12.24%
 			</text>
 		</svg><svg y="75%" x="0%">
 			<circle cx="5" cy="6" r="5" fill="#00ADD8" />
