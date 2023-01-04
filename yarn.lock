@@ -254,10 +254,10 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-18.11.17.tgz#5c009e1d9c38f4a2a9d45c0b0c493fe6cdb4bcb5"
   integrity sha512-HJSUJmni4BeDHhfzn6nF0sVmd1SMezP7/4F0Lq+aXzmp2xm9O7WXrUtHW/CHlYVtZUbByEvWidHqRtcJXGF2Ng==
 
-"@vladaviedov/gh-lang-stats@^0.4.0":
-  version "0.4.0"
-  resolved "https://npm.pkg.github.com/download/@vladaviedov/gh-lang-stats/0.4.0/5d33a6e67d53e6cfc0e3f70814738ea5ecc8141a#5d33a6e67d53e6cfc0e3f70814738ea5ecc8141a"
-  integrity sha512-2OPmvHicnMWlN+3F33yoZn93fhQJbUG41Ahbxf8CnY3GY8zLMQ4bp542GJ71OQ39jMfw7iTNpndBMtelslbtBQ==
+"@vladaviedov/gh-lang-stats@^0.5.0":
+  version "0.5.0"
+  resolved "https://npm.pkg.github.com/download/@vladaviedov/gh-lang-stats/0.5.0/c6e7c01ba03de8cf70927f13a0ea6bafb2cafd5e#c6e7c01ba03de8cf70927f13a0ea6bafb2cafd5e"
+  integrity sha512-UiojxJ4AZy+45I1Jn1bs3aY/rnFQCbYssz0mD3uR0F2+nC09K4ZMl0vi8POXeeSa5Efcb+WNYxOIyynYTrbSrA==
   dependencies:
     "@octokit/plugin-throttling" "^4.3.0"
     octokit "^2.0.7"
