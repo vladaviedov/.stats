@@ -3,7 +3,7 @@
 		.background {
 			width: 100%;
 			height: 100%;
-			fill: #0a0f17;
+			fill: #262626;
 		}
 		
 		text {
@@ -12,7 +12,7 @@
 
 		.title {
 			font-size: 15px;
-			fill: #fcfcd8;
+			fill: #fabd2f;
 		}
 
 		.bar-segment {
@@ -21,7 +21,12 @@
 
 		.lang-name {
 			font-size: 11px;
-			fill: #eeeeb8
+			fill: #b8bb26
+		}
+
+		.delta-arrow {
+			font-size: 14px;
+			fill: #00ff00;
 		}
 	</style>
 
@@ -45,6 +50,9 @@
 			<circle cx="5" cy="6" r="5" fill="$color" />
 			<text class="lang-name" x="15" y="10">
 				$name - $cur%
+			</text>
+			<text class="delta-arrow" dx="125" y="10" style="opacity: $delta%">
+				↑
 			</text>
 		</svg> __end__ -->
 		__list__
