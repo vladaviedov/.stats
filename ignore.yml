@@ -1,0 +1,10 @@
+- Fall22HarvardGraphics/finalproject-vladaviedov:
+  dir:
+    - lib
+    - extra
+    - assets
+- Fall22HarvardGraphics/monorepo-vladaviedov:
+  file:
+    - glad.cpp
+    - glad.h
+    - khrplatform.h
