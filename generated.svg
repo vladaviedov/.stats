@@ -92,7 +92,7 @@
 			<text class="lang-name" x="15" y="10">
 				Go - 5.02%
 			</text>
-			<text class="delta-arrow" dx="125" y="10" style="opacity: 96.74%">
+			<text class="delta-arrow" dx="125" y="10" style="opacity: 0.00%">
 				↑
 			</text>
 		</svg><svg y="25%" x="50%">
@@ -116,7 +116,7 @@
 			<text class="lang-name" x="15" y="10">
 				Vue - 0.98%
 			</text>
-			<text class="delta-arrow" dx="125" y="10" style="opacity: 28.26%">
+			<text class="delta-arrow" dx="125" y="10" style="opacity: 0.00%">
 				↑
 			</text>
 		</svg>
