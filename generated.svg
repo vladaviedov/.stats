@@ -41,7 +41,7 @@
 	<!-- Percentage Bar -->
 	<svg x="10%" y="30%" width="80%" height="5%">
 		<!-- __template_bar__ <rect class="bar-segment" x="$prev%" width="$cur%" fill="$color" /> __end__ -->
-		<rect class="bar-segment" x="0.00%" width="39.42%" fill="#555555" /><rect class="bar-segment" x="39.42%" width="30.28%" fill="#f34b7d" /><rect class="bar-segment" x="69.70%" width="10.22%" fill="#b07219" /><rect class="bar-segment" x="79.92%" width="5.66%" fill="#f1e05a" /><rect class="bar-segment" x="85.58%" width="5.02%" fill="#00ADD8" /><rect class="bar-segment" x="90.60%" width="3.70%" fill="#A97BFF" /><rect class="bar-segment" x="94.31%" width="1.99%" fill="#427819" /><rect class="bar-segment" x="96.30%" width="0.98%" fill="#41b883" />
+		<rect class="bar-segment" x="0.00%" width="39.42%" fill="#555555" /><rect class="bar-segment" x="39.42%" width="30.28%" fill="#f34b7d" /><rect class="bar-segment" x="69.70%" width="10.22%" fill="#b07219" /><rect class="bar-segment" x="79.91%" width="5.66%" fill="#f1e05a" /><rect class="bar-segment" x="85.57%" width="5.02%" fill="#00ADD8" /><rect class="bar-segment" x="90.59%" width="3.70%" fill="#A97BFF" /><rect class="bar-segment" x="94.30%" width="1.99%" fill="#427819" /><rect class="bar-segment" x="96.29%" width="0.99%" fill="#41b883" />
 	</svg>
 	
 	<!-- Language List -->
@@ -114,9 +114,9 @@
 		</svg><svg y="75%" x="50%">
 			<circle cx="5" cy="6" r="5" fill="#41b883" />
 			<text class="lang-name" x="15" y="10">
-				Vue - 0.98%
+				Vue - 0.99%
 			</text>
-			<text class="delta-arrow" dx="125" y="10" style="opacity: 0.00%">
+			<text class="delta-arrow" dx="125" y="10" style="opacity: 100.00%">
 				↑
 			</text>
 		</svg>
