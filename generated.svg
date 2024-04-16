@@ -116,7 +116,7 @@
 			<text class="lang-name" x="15" y="10">
 				Vue - 1.39%
 			</text>
-			<text class="delta-arrow" dx="125" y="10" style="opacity: 100.00%">
+			<text class="delta-arrow" dx="125" y="10" style="opacity: 0.00%">
 				↑
 			</text>
 		</svg>
