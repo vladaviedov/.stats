@@ -60,7 +60,7 @@
 			<text class="lang-name" x="15" y="10">
 				C - 33.78%
 			</text>
-			<text class="delta-arrow" dx="125" y="10" style="opacity: 50.34%">
+			<text class="delta-arrow" dx="125" y="10" style="opacity: 0.00%">
 				↑
 			</text>
 		</svg><svg y="25%" x="0%">
@@ -68,7 +68,7 @@
 			<text class="lang-name" x="15" y="10">
 				C++ - 33.60%
 			</text>
-			<text class="delta-arrow" dx="125" y="10" style="opacity: 50.20%">
+			<text class="delta-arrow" dx="125" y="10" style="opacity: 0.00%">
 				↑
 			</text>
 		</svg><svg y="50%" x="0%">
@@ -76,7 +76,7 @@
 			<text class="lang-name" x="15" y="10">
 				Java - 11.29%
 			</text>
-			<text class="delta-arrow" dx="125" y="10" style="opacity: 33.46%">
+			<text class="delta-arrow" dx="125" y="10" style="opacity: 0.00%">
 				↑
 			</text>
 		</svg><svg y="75%" x="0%">
@@ -84,7 +84,7 @@
 			<text class="lang-name" x="15" y="10">
 				Go - 5.50%
 			</text>
-			<text class="delta-arrow" dx="125" y="10" style="opacity: 29.12%">
+			<text class="delta-arrow" dx="125" y="10" style="opacity: 0.00%">
 				↑
 			</text>
 		</svg><svg y="0%" x="50%">
@@ -92,7 +92,7 @@
 			<text class="lang-name" x="15" y="10">
 				JavaScript - 5.10%
 			</text>
-			<text class="delta-arrow" dx="125" y="10" style="opacity: 28.83%">
+			<text class="delta-arrow" dx="125" y="10" style="opacity: 0.00%">
 				↑
 			</text>
 		</svg><svg y="25%" x="50%">
@@ -100,7 +100,7 @@
 			<text class="lang-name" x="15" y="10">
 				Kotlin - 3.23%
 			</text>
-			<text class="delta-arrow" dx="125" y="10" style="opacity: 27.42%">
+			<text class="delta-arrow" dx="125" y="10" style="opacity: 0.00%">
 				↑
 			</text>
 		</svg><svg y="50%" x="50%">
@@ -108,7 +108,7 @@
 			<text class="lang-name" x="15" y="10">
 				Makefile - 2.50%
 			</text>
-			<text class="delta-arrow" dx="125" y="10" style="opacity: 26.87%">
+			<text class="delta-arrow" dx="125" y="10" style="opacity: 0.00%">
 				↑
 			</text>
 		</svg><svg y="75%" x="50%">
@@ -116,7 +116,7 @@
 			<text class="lang-name" x="15" y="10">
 				Vue - 1.34%
 			</text>
-			<text class="delta-arrow" dx="125" y="10" style="opacity: 26.00%">
+			<text class="delta-arrow" dx="125" y="10" style="opacity: 0.00%">
 				↑
 			</text>
 		</svg>
