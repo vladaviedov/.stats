@@ -41,7 +41,7 @@
 	<!-- Percentage Bar -->
 	<svg x="10%" y="30%" width="80%" height="5%">
 		<!-- __template_bar__ <rect class="bar-segment" x="$prev%" width="$cur%" fill="$color" /> __end__ -->
-		<rect class="bar-segment" x="0.00%" width="34.80%" fill="#555555" /><rect class="bar-segment" x="34.80%" width="33.00%" fill="#f34b7d" /><rect class="bar-segment" x="67.80%" width="10.83%" fill="#b07219" /><rect class="bar-segment" x="78.63%" width="5.48%" fill="#00ADD8" /><rect class="bar-segment" x="84.11%" width="4.90%" fill="#f1e05a" /><rect class="bar-segment" x="89.01%" width="3.10%" fill="#A97BFF" /><rect class="bar-segment" x="92.11%" width="3.07%" fill="#427819" /><rect class="bar-segment" x="95.18%" width="1.28%" fill="#41b883" />
+		<rect class="bar-segment" x="0.00%" width="34.80%" fill="#555555" /><rect class="bar-segment" x="34.80%" width="33.00%" fill="#f34b7d" /><rect class="bar-segment" x="67.79%" width="10.83%" fill="#b07219" /><rect class="bar-segment" x="78.63%" width="5.48%" fill="#00ADD8" /><rect class="bar-segment" x="84.10%" width="4.90%" fill="#f1e05a" /><rect class="bar-segment" x="89.00%" width="3.10%" fill="#A97BFF" /><rect class="bar-segment" x="92.10%" width="3.08%" fill="#427819" /><rect class="bar-segment" x="95.18%" width="1.28%" fill="#41b883" />
 	</svg>
 	
 	<!-- Language List -->
@@ -60,7 +60,7 @@
 			<text class="lang-name" x="15" y="10">
 				C - 34.80%
 			</text>
-			<text class="delta-arrow" dx="125" y="10" style="opacity: 0.00%">
+			<text class="delta-arrow" dx="125" y="10" style="opacity: 62.50%">
 				↑
 			</text>
 		</svg><svg y="25%" x="0%">
@@ -106,9 +106,9 @@
 		</svg><svg y="50%" x="50%">
 			<circle cx="5" cy="6" r="5" fill="#427819" />
 			<text class="lang-name" x="15" y="10">
-				Makefile - 3.07%
+				Makefile - 3.08%
 			</text>
-			<text class="delta-arrow" dx="125" y="10" style="opacity: 0.00%">
+			<text class="delta-arrow" dx="125" y="10" style="opacity: 62.50%">
 				↑
 			</text>
 		</svg><svg y="75%" x="50%">
