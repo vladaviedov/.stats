@@ -76,7 +76,7 @@
 			<text class="lang-name" x="15" y="10">
 				Java - 10.54%
 			</text>
-			<text class="delta-arrow" dx="125" y="10" style="opacity: 45.74%">
+			<text class="delta-arrow" dx="125" y="10" style="opacity: 0.00%">
 				↑
 			</text>
 		</svg><svg y="75%" x="0%">
@@ -108,7 +108,7 @@
 			<text class="lang-name" x="15" y="10">
 				Kotlin - 3.09%
 			</text>
-			<text class="delta-arrow" dx="125" y="10" style="opacity: 79.26%">
+			<text class="delta-arrow" dx="125" y="10" style="opacity: 0.00%">
 				↑
 			</text>
 		</svg><svg y="75%" x="50%">
