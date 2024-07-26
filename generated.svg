@@ -60,7 +60,7 @@
 			<text class="lang-name" x="15" y="10">
 				C - 36.32%
 			</text>
-			<text class="delta-arrow" dx="125" y="10" style="opacity: 32.69%">
+			<text class="delta-arrow" dx="125" y="10" style="opacity: 0.00%">
 				↑
 			</text>
 		</svg><svg y="25%" x="0%">
@@ -68,7 +68,7 @@
 			<text class="lang-name" x="15" y="10">
 				C++ - 32.17%
 			</text>
-			<text class="delta-arrow" dx="125" y="10" style="opacity: 92.31%">
+			<text class="delta-arrow" dx="125" y="10" style="opacity: 0.00%">
 				↑
 			</text>
 		</svg><svg y="50%" x="0%">
