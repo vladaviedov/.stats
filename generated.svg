@@ -41,7 +41,7 @@
 	<!-- Percentage Bar -->
 	<svg x="10%" y="30%" width="80%" height="5%">
 		<!-- __template_bar__ <rect class="bar-segment" x="$prev%" width="$cur%" fill="$color" /> __end__ -->
-		<rect class="bar-segment" x="0.00%" width="39.03%" fill="#555555" /><rect class="bar-segment" x="39.03%" width="30.36%" fill="#f34b7d" /><rect class="bar-segment" x="69.39%" width="9.87%" fill="#b07219" /><rect class="bar-segment" x="79.26%" width="4.98%" fill="#00ADD8" /><rect class="bar-segment" x="84.24%" width="4.45%" fill="#f1e05a" /><rect class="bar-segment" x="88.69%" width="3.54%" fill="#427819" /><rect class="bar-segment" x="92.23%" width="2.89%" fill="#A97BFF" /><rect class="bar-segment" x="95.12%" width="1.17%" fill="#41b883" />
+		<rect class="bar-segment" x="0.00%" width="39.06%" fill="#555555" /><rect class="bar-segment" x="39.06%" width="30.34%" fill="#f34b7d" /><rect class="bar-segment" x="69.40%" width="9.87%" fill="#b07219" /><rect class="bar-segment" x="79.27%" width="4.97%" fill="#00ADD8" /><rect class="bar-segment" x="84.24%" width="4.45%" fill="#f1e05a" /><rect class="bar-segment" x="88.69%" width="3.54%" fill="#427819" /><rect class="bar-segment" x="92.23%" width="2.89%" fill="#A97BFF" /><rect class="bar-segment" x="95.12%" width="1.17%" fill="#41b883" />
 	</svg>
 	
 	<!-- Language List -->
@@ -58,15 +58,15 @@
 		<svg y="0%" x="0%">
 			<circle cx="5" cy="6" r="5" fill="#555555" />
 			<text class="lang-name" x="15" y="10">
-				C - 39.03%
+				C - 39.06%
 			</text>
-			<text class="delta-arrow" dx="125" y="10" style="opacity: 62.80%">
+			<text class="delta-arrow" dx="125" y="10" style="opacity: 95.45%">
 				↑
 			</text>
 		</svg><svg y="25%" x="0%">
 			<circle cx="5" cy="6" r="5" fill="#f34b7d" />
 			<text class="lang-name" x="15" y="10">
-				C++ - 30.36%
+				C++ - 30.34%
 			</text>
 			<text class="delta-arrow" dx="125" y="10" style="opacity: 0.00%">
 				↑
@@ -82,7 +82,7 @@
 		</svg><svg y="75%" x="0%">
 			<circle cx="5" cy="6" r="5" fill="#00ADD8" />
 			<text class="lang-name" x="15" y="10">
-				Go - 4.98%
+				Go - 4.97%
 			</text>
 			<text class="delta-arrow" dx="125" y="10" style="opacity: 0.00%">
 				↑
@@ -100,7 +100,7 @@
 			<text class="lang-name" x="15" y="10">
 				Makefile - 3.54%
 			</text>
-			<text class="delta-arrow" dx="125" y="10" style="opacity: 62.20%">
+			<text class="delta-arrow" dx="125" y="10" style="opacity: 29.55%">
 				↑
 			</text>
 		</svg><svg y="50%" x="50%">
