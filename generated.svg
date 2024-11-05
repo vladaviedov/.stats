@@ -41,7 +41,7 @@
 	<!-- Percentage Bar -->
 	<svg x="10%" y="30%" width="80%" height="5%">
 		<!-- __template_bar__ <rect class="bar-segment" x="$prev%" width="$cur%" fill="$color" /> __end__ -->
-		<rect class="bar-segment" x="0.00%" width="40.42%" fill="#555555" /><rect class="bar-segment" x="40.42%" width="29.54%" fill="#f34b7d" /><rect class="bar-segment" x="69.96%" width="9.60%" fill="#b07219" /><rect class="bar-segment" x="79.56%" width="5.00%" fill="#00ADD8" /><rect class="bar-segment" x="84.56%" width="4.33%" fill="#f1e05a" /><rect class="bar-segment" x="88.89%" width="3.54%" fill="#427819" /><rect class="bar-segment" x="92.43%" width="2.81%" fill="#A97BFF" /><rect class="bar-segment" x="95.25%" width="1.13%" fill="#41b883" />
+		<rect class="bar-segment" x="0.00%" width="40.33%" fill="#555555" /><rect class="bar-segment" x="40.33%" width="29.47%" fill="#f34b7d" /><rect class="bar-segment" x="69.80%" width="9.58%" fill="#b07219" /><rect class="bar-segment" x="79.39%" width="4.99%" fill="#00ADD8" /><rect class="bar-segment" x="84.38%" width="4.32%" fill="#f1e05a" /><rect class="bar-segment" x="88.70%" width="3.53%" fill="#427819" /><rect class="bar-segment" x="92.23%" width="2.81%" fill="#A97BFF" /><rect class="bar-segment" x="95.04%" width="1.13%" fill="#41b883" />
 	</svg>
 	
 	<!-- Language List -->
@@ -58,7 +58,7 @@
 		<svg y="0%" x="0%">
 			<circle cx="5" cy="6" r="5" fill="#555555" />
 			<text class="lang-name" x="15" y="10">
-				C - 40.42%
+				C - 40.33%
 			</text>
 			<text class="delta-arrow" dx="125" y="10" style="opacity: 0.00%">
 				↑
@@ -66,7 +66,7 @@
 		</svg><svg y="25%" x="0%">
 			<circle cx="5" cy="6" r="5" fill="#f34b7d" />
 			<text class="lang-name" x="15" y="10">
-				C++ - 29.54%
+				C++ - 29.47%
 			</text>
 			<text class="delta-arrow" dx="125" y="10" style="opacity: 0.00%">
 				↑
@@ -74,7 +74,7 @@
 		</svg><svg y="50%" x="0%">
 			<circle cx="5" cy="6" r="5" fill="#b07219" />
 			<text class="lang-name" x="15" y="10">
-				Java - 9.60%
+				Java - 9.58%
 			</text>
 			<text class="delta-arrow" dx="125" y="10" style="opacity: 0.00%">
 				↑
@@ -82,7 +82,7 @@
 		</svg><svg y="75%" x="0%">
 			<circle cx="5" cy="6" r="5" fill="#00ADD8" />
 			<text class="lang-name" x="15" y="10">
-				Go - 5.00%
+				Go - 4.99%
 			</text>
 			<text class="delta-arrow" dx="125" y="10" style="opacity: 0.00%">
 				↑
@@ -90,7 +90,7 @@
 		</svg><svg y="0%" x="50%">
 			<circle cx="5" cy="6" r="5" fill="#f1e05a" />
 			<text class="lang-name" x="15" y="10">
-				JavaScript - 4.33%
+				JavaScript - 4.32%
 			</text>
 			<text class="delta-arrow" dx="125" y="10" style="opacity: 0.00%">
 				↑
@@ -98,9 +98,9 @@
 		</svg><svg y="25%" x="50%">
 			<circle cx="5" cy="6" r="5" fill="#427819" />
 			<text class="lang-name" x="15" y="10">
-				Makefile - 3.54%
+				Makefile - 3.53%
 			</text>
-			<text class="delta-arrow" dx="125" y="10" style="opacity: 100.00%">
+			<text class="delta-arrow" dx="125" y="10" style="opacity: 0.00%">
 				↑
 			</text>
 		</svg><svg y="50%" x="50%">
