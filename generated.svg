@@ -41,7 +41,7 @@
 	<!-- Percentage Bar -->
 	<svg x="10%" y="30%" width="80%" height="5%">
 		<!-- __template_bar__ <rect class="bar-segment" x="$prev%" width="$cur%" fill="$color" /> __end__ -->
-		<rect class="bar-segment" x="0.00%" width="39.92%" fill="#555555" /><rect class="bar-segment" x="39.92%" width="29.17%" fill="#f34b7d" /><rect class="bar-segment" x="69.08%" width="9.48%" fill="#b07219" /><rect class="bar-segment" x="78.57%" width="5.84%" fill="#00ADD8" /><rect class="bar-segment" x="84.40%" width="4.28%" fill="#f1e05a" /><rect class="bar-segment" x="88.68%" width="3.57%" fill="#427819" /><rect class="bar-segment" x="92.25%" width="2.78%" fill="#A97BFF" /><rect class="bar-segment" x="95.03%" width="1.12%" fill="#41b883" />
+		<rect class="bar-segment" x="0.00%" width="39.96%" fill="#555555" /><rect class="bar-segment" x="39.96%" width="29.14%" fill="#f34b7d" /><rect class="bar-segment" x="69.10%" width="9.48%" fill="#b07219" /><rect class="bar-segment" x="78.58%" width="5.84%" fill="#00ADD8" /><rect class="bar-segment" x="84.42%" width="4.27%" fill="#f1e05a" /><rect class="bar-segment" x="88.69%" width="3.57%" fill="#427819" /><rect class="bar-segment" x="92.26%" width="2.78%" fill="#A97BFF" /><rect class="bar-segment" x="95.03%" width="1.12%" fill="#41b883" />
 	</svg>
 	
 	<!-- Language List -->
@@ -58,15 +58,15 @@
 		<svg y="0%" x="0%">
 			<circle cx="5" cy="6" r="5" fill="#555555" />
 			<text class="lang-name" x="15" y="10">
-				C - 39.92%
+				C - 39.96%
 			</text>
-			<text class="delta-arrow" dx="125" y="10" style="opacity: 0.00%">
+			<text class="delta-arrow" dx="125" y="10" style="opacity: 100.00%">
 				↑
 			</text>
 		</svg><svg y="25%" x="0%">
 			<circle cx="5" cy="6" r="5" fill="#f34b7d" />
 			<text class="lang-name" x="15" y="10">
-				C++ - 29.17%
+				C++ - 29.14%
 			</text>
 			<text class="delta-arrow" dx="125" y="10" style="opacity: 0.00%">
 				↑
@@ -90,7 +90,7 @@
 		</svg><svg y="0%" x="50%">
 			<circle cx="5" cy="6" r="5" fill="#f1e05a" />
 			<text class="lang-name" x="15" y="10">
-				JavaScript - 4.28%
+				JavaScript - 4.27%
 			</text>
 			<text class="delta-arrow" dx="125" y="10" style="opacity: 0.00%">
 				↑
