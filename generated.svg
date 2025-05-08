@@ -41,7 +41,7 @@
 	<!-- Percentage Bar -->
 	<svg x="10%" y="30%" width="80%" height="5%">
 		<!-- __template_bar__ <rect class="bar-segment" x="$prev%" width="$cur%" fill="$color" /> __end__ -->
-		<rect class="bar-segment" x="0.00%" width="39.31%" fill="#555555" /><rect class="bar-segment" x="39.31%" width="29.36%" fill="#f34b7d" /><rect class="bar-segment" x="68.68%" width="9.55%" fill="#b07219" /><rect class="bar-segment" x="78.23%" width="5.88%" fill="#00ADD8" /><rect class="bar-segment" x="84.10%" width="4.31%" fill="#f1e05a" /><rect class="bar-segment" x="88.41%" width="3.63%" fill="#427819" /><rect class="bar-segment" x="92.04%" width="2.80%" fill="#A97BFF" /><rect class="bar-segment" x="94.83%" width="1.13%" fill="#41b883" />
+		<rect class="bar-segment" x="0.00%" width="39.31%" fill="#555555" /><rect class="bar-segment" x="39.31%" width="29.36%" fill="#f34b7d" /><rect class="bar-segment" x="68.68%" width="9.55%" fill="#b07219" /><rect class="bar-segment" x="78.22%" width="5.88%" fill="#00ADD8" /><rect class="bar-segment" x="84.10%" width="4.31%" fill="#f1e05a" /><rect class="bar-segment" x="88.41%" width="3.63%" fill="#427819" /><rect class="bar-segment" x="92.03%" width="2.80%" fill="#A97BFF" /><rect class="bar-segment" x="94.83%" width="1.13%" fill="#41b883" />
 	</svg>
 	
 	<!-- Language List -->
