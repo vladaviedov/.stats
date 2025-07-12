@@ -60,7 +60,7 @@
 			<text class="lang-name" x="15" y="10">
 				C - 39.33%
 			</text>
-			<text class="delta-arrow" dx="125" y="10" style="opacity: 63.46%">
+			<text class="delta-arrow" dx="125" y="10" style="opacity: 0.00%">
 				↑
 			</text>
 		</svg><svg y="25%" x="0%">
@@ -68,7 +68,7 @@
 			<text class="lang-name" x="15" y="10">
 				C++ - 29.35%
 			</text>
-			<text class="delta-arrow" dx="125" y="10" style="opacity: 51.27%">
+			<text class="delta-arrow" dx="125" y="10" style="opacity: 0.00%">
 				↑
 			</text>
 		</svg><svg y="50%" x="0%">
@@ -100,7 +100,7 @@
 			<text class="lang-name" x="15" y="10">
 				Makefile - 3.64%
 			</text>
-			<text class="delta-arrow" dx="125" y="10" style="opacity: 28.85%">
+			<text class="delta-arrow" dx="125" y="10" style="opacity: 0.00%">
 				↑
 			</text>
 		</svg><svg y="50%" x="50%">
