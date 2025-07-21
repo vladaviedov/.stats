@@ -41,7 +41,7 @@
 	<!-- Percentage Bar -->
 	<svg x="10%" y="30%" width="80%" height="5%">
 		<!-- __template_bar__ <rect class="bar-segment" x="$prev%" width="$cur%" fill="$color" /> __end__ -->
-		<rect class="bar-segment" x="0.00%" width="39.34%" fill="#555555" /><rect class="bar-segment" x="39.34%" width="29.35%" fill="#f34b7d" /><rect class="bar-segment" x="68.68%" width="9.42%" fill="#b07219" /><rect class="bar-segment" x="78.11%" width="6.04%" fill="#00ADD8" /><rect class="bar-segment" x="84.15%" width="4.25%" fill="#f1e05a" /><rect class="bar-segment" x="88.40%" width="3.64%" fill="#427819" /><rect class="bar-segment" x="92.04%" width="2.76%" fill="#A97BFF" /><rect class="bar-segment" x="94.80%" width="1.11%" fill="#41b883" />
+		<rect class="bar-segment" x="0.00%" width="39.33%" fill="#555555" /><rect class="bar-segment" x="39.33%" width="29.34%" fill="#f34b7d" /><rect class="bar-segment" x="68.66%" width="9.42%" fill="#b07219" /><rect class="bar-segment" x="78.08%" width="6.04%" fill="#00ADD8" /><rect class="bar-segment" x="84.13%" width="4.25%" fill="#f1e05a" /><rect class="bar-segment" x="88.37%" width="3.64%" fill="#427819" /><rect class="bar-segment" x="92.01%" width="2.76%" fill="#A97BFF" /><rect class="bar-segment" x="94.77%" width="1.11%" fill="#41b883" />
 	</svg>
 	
 	<!-- Language List -->
@@ -58,15 +58,15 @@
 		<svg y="0%" x="0%">
 			<circle cx="5" cy="6" r="5" fill="#555555" />
 			<text class="lang-name" x="15" y="10">
-				C - 39.34%
+				C - 39.33%
 			</text>
-			<text class="delta-arrow" dx="125" y="10" style="opacity: 93.18%">
+			<text class="delta-arrow" dx="125" y="10" style="opacity: 0.00%">
 				↑
 			</text>
 		</svg><svg y="25%" x="0%">
 			<circle cx="5" cy="6" r="5" fill="#f34b7d" />
 			<text class="lang-name" x="15" y="10">
-				C++ - 29.35%
+				C++ - 29.34%
 			</text>
 			<text class="delta-arrow" dx="125" y="10" style="opacity: 0.00%">
 				↑
@@ -100,7 +100,7 @@
 			<text class="lang-name" x="15" y="10">
 				Makefile - 3.64%
 			</text>
-			<text class="delta-arrow" dx="125" y="10" style="opacity: 31.82%">
+			<text class="delta-arrow" dx="125" y="10" style="opacity: 0.00%">
 				↑
 			</text>
 		</svg><svg y="50%" x="50%">
