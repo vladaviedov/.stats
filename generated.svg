@@ -41,7 +41,7 @@
 	<!-- Percentage Bar -->
 	<svg x="10%" y="30%" width="80%" height="5%">
 		<!-- __template_bar__ <rect class="bar-segment" x="$prev%" width="$cur%" fill="$color" /> __end__ -->
-		<rect class="bar-segment" x="0.00%" width="39.85%" fill="#555555" /><rect class="bar-segment" x="39.85%" width="29.19%" fill="#f34b7d" /><rect class="bar-segment" x="69.04%" width="9.17%" fill="#b07219" /><rect class="bar-segment" x="78.21%" width="5.88%" fill="#00ADD8" /><rect class="bar-segment" x="84.09%" width="4.13%" fill="#f1e05a" /><rect class="bar-segment" x="88.22%" width="3.61%" fill="#427819" /><rect class="bar-segment" x="91.83%" width="2.69%" fill="#A97BFF" /><rect class="bar-segment" x="94.52%" width="1.08%" fill="#41b883" />
+		<rect class="bar-segment" x="0.00%" width="39.83%" fill="#555555" /><rect class="bar-segment" x="39.83%" width="29.18%" fill="#f34b7d" /><rect class="bar-segment" x="69.01%" width="9.16%" fill="#b07219" /><rect class="bar-segment" x="78.17%" width="5.88%" fill="#00ADD8" /><rect class="bar-segment" x="84.05%" width="4.13%" fill="#f1e05a" /><rect class="bar-segment" x="88.18%" width="3.61%" fill="#427819" /><rect class="bar-segment" x="91.79%" width="2.69%" fill="#A97BFF" /><rect class="bar-segment" x="94.47%" width="1.08%" fill="#41b883" />
 	</svg>
 	
 	<!-- Language List -->
@@ -58,7 +58,7 @@
 		<svg y="0%" x="0%">
 			<circle cx="5" cy="6" r="5" fill="#555555" />
 			<text class="lang-name" x="15" y="10">
-				C - 39.85%
+				C - 39.83%
 			</text>
 			<text class="delta-arrow" dx="125" y="10" style="opacity: 0.00%">
 				↑
@@ -66,7 +66,7 @@
 		</svg><svg y="25%" x="0%">
 			<circle cx="5" cy="6" r="5" fill="#f34b7d" />
 			<text class="lang-name" x="15" y="10">
-				C++ - 29.19%
+				C++ - 29.18%
 			</text>
 			<text class="delta-arrow" dx="125" y="10" style="opacity: 0.00%">
 				↑
@@ -74,7 +74,7 @@
 		</svg><svg y="50%" x="0%">
 			<circle cx="5" cy="6" r="5" fill="#b07219" />
 			<text class="lang-name" x="15" y="10">
-				Java - 9.17%
+				Java - 9.16%
 			</text>
 			<text class="delta-arrow" dx="125" y="10" style="opacity: 0.00%">
 				↑
