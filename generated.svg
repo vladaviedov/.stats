@@ -41,7 +41,7 @@
 	<!-- Percentage Bar -->
 	<svg x="10%" y="30%" width="80%" height="5%">
 		<!-- __template_bar__ <rect class="bar-segment" x="$prev%" width="$cur%" fill="$color" /> __end__ -->
-		<rect class="bar-segment" x="0.00%" width="40.72%" fill="#555555" /><rect class="bar-segment" x="40.72%" width="28.75%" fill="#f34b7d" /><rect class="bar-segment" x="69.47%" width="9.03%" fill="#b07219" /><rect class="bar-segment" x="78.49%" width="5.85%" fill="#00ADD8" /><rect class="bar-segment" x="84.35%" width="4.05%" fill="#f1e05a" /><rect class="bar-segment" x="88.40%" width="3.64%" fill="#427819" /><rect class="bar-segment" x="92.04%" width="1.75%" fill="#89e051" /><rect class="bar-segment" x="93.78%" width="1.56%" fill="#A97BFF" />
+		<rect class="bar-segment" x="0.00%" width="40.79%" fill="#555555" /><rect class="bar-segment" x="40.79%" width="28.71%" fill="#f34b7d" /><rect class="bar-segment" x="69.50%" width="9.02%" fill="#b07219" /><rect class="bar-segment" x="78.52%" width="5.85%" fill="#00ADD8" /><rect class="bar-segment" x="84.36%" width="4.05%" fill="#f1e05a" /><rect class="bar-segment" x="88.41%" width="3.64%" fill="#427819" /><rect class="bar-segment" x="92.04%" width="1.74%" fill="#89e051" /><rect class="bar-segment" x="93.79%" width="1.55%" fill="#A97BFF" />
 	</svg>
 	
 	<!-- Language List -->
@@ -58,15 +58,15 @@
 		<svg y="0%" x="0%">
 			<circle cx="5" cy="6" r="5" fill="#555555" />
 			<text class="lang-name" x="15" y="10">
-				C - 40.72%
+				C - 40.79%
 			</text>
-			<text class="delta-arrow" dx="125" y="10" style="opacity: 0.00%">
+			<text class="delta-arrow" dx="125" y="10" style="opacity: 100.00%">
 				↑
 			</text>
 		</svg><svg y="25%" x="0%">
 			<circle cx="5" cy="6" r="5" fill="#f34b7d" />
 			<text class="lang-name" x="15" y="10">
-				C++ - 28.75%
+				C++ - 28.71%
 			</text>
 			<text class="delta-arrow" dx="125" y="10" style="opacity: 0.00%">
 				↑
@@ -74,7 +74,7 @@
 		</svg><svg y="50%" x="0%">
 			<circle cx="5" cy="6" r="5" fill="#b07219" />
 			<text class="lang-name" x="15" y="10">
-				Java - 9.03%
+				Java - 9.02%
 			</text>
 			<text class="delta-arrow" dx="125" y="10" style="opacity: 0.00%">
 				↑
@@ -106,7 +106,7 @@
 		</svg><svg y="50%" x="50%">
 			<circle cx="5" cy="6" r="5" fill="#89e051" />
 			<text class="lang-name" x="15" y="10">
-				Shell - 1.75%
+				Shell - 1.74%
 			</text>
 			<text class="delta-arrow" dx="125" y="10" style="opacity: 0.00%">
 				↑
@@ -114,7 +114,7 @@
 		</svg><svg y="75%" x="50%">
 			<circle cx="5" cy="6" r="5" fill="#A97BFF" />
 			<text class="lang-name" x="15" y="10">
-				Kotlin - 1.56%
+				Kotlin - 1.55%
 			</text>
 			<text class="delta-arrow" dx="125" y="10" style="opacity: 0.00%">
 				↑
