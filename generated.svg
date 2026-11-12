@@ -76,7 +76,7 @@
 			<text class="lang-name" x="15" y="10">
 				Go - 10.21%
 			</text>
-			<text class="delta-arrow" dx="125" y="10" style="opacity: 99.69%">
+			<text class="delta-arrow" dx="125" y="10" style="opacity: 0.00%">
 				↑
 			</text>
 		</svg><svg y="75%" x="0%">
@@ -108,7 +108,7 @@
 			<text class="lang-name" x="15" y="10">
 				Shell - 1.80%
 			</text>
-			<text class="delta-arrow" dx="125" y="10" style="opacity: 25.31%">
+			<text class="delta-arrow" dx="125" y="10" style="opacity: 0.00%">
 				↑
 			</text>
 		</svg><svg y="75%" x="50%">
